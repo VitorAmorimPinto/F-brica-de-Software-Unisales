@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     z-index: 997;
     transition: all 0.5s;
     padding: 20px 0;
-    background: #006699;
+    background: #151c48;
 }
 
     /* #header.header-transparent {
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 } */
 
     #header.header-scrolled {
-        background: #107eb5;
+        background: #151c48;
         height: 60px;
         padding: 10px 0;
         color: black;
@@ -2191,7 +2191,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    background: #0b212d;
+    background: #151c48;
     padding: 0 0 30px 0;
     color: #fff;
     font-size: 14px;
@@ -2199,7 +2199,7 @@ section {
 
     #footer .footer-newsletter {
         padding: 50px 0;
-        background: #0d2735;
+        background: #151c48;
     }
 
         #footer .footer-newsletter h4 {
@@ -2246,7 +2246,7 @@ section {
                 }
 
     #footer .footer-top {
-        background: #0d2735;
+        background: #151c48;
         border-top: 1px solid #17455e;
         border-bottom: 1px solid #123649;
         padding: 60px 0 30px 0;
