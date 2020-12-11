@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     }
 
         .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-            color: #29e0f8;
+            color:  #ff4d4d;
             text-decoration: none;
         }
 
